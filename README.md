@@ -23,5 +23,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Credits
-Original idea and images are from [Freesnöw](https://github.com/dlamkins)  
-Map file by [Tiny Taimi](https://github.com/OpNop)
+Original idea and images are from [Freesnöw](https://github.com/dlamkins) and [Blish HUD](https://blishhud.com/)  
+Map file by [Tiny Taimi](https://github.com/OpNop) of [The TINY Army](https://tinyarmy.org)
