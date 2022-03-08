@@ -74,10 +74,16 @@
   "0ab70801": 1288, //Domain of Kourna
   "b3b8c4f3": 1301, //Jahai Bluffs
   "f36c130e": 1317, //Dragonfall
+  //Cantha
+  "210b81b0": 1442, //Seitung Province
+  "a157063c": 1438, //New Kaineng City
+  "2274c5a2": 1452, //The Echovald Wilds
+  "2f0f0102": 1422, //Dragon's End
   //Guild Halls
   "f160587f": 1124, //Lost Precipice
   "af783e31": 1121, //Gilded Hollow
   "75542fcf": 1232, //Windswept Haven
+  "93a0f21e": 1462, //Isle of Reflection
   //Mad King's Realm
   "03661893": 866, //Mad King's Labyrinth
   "4eefd7a4": 866, //Mad King's Raceway (really 1304 but same loading screen as 866)
