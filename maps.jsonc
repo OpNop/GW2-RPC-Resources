@@ -1,114 +1,217 @@
 {
-  //Kryta
-  "80b1db64": 15, //Queensdale
-  "0a01a098": 17, //Harathi Hinterlands
-  "b1af49c0": 18, //Divinity's Reach
-  "ea0f649a": 23, //Kessex Hills
-  "2e7f6558": 24, //Gendarran Fields
-  "86e692fd": 50, //Lion's Arch
-  "827077bd": 73, //Bloodtide Coast
-  "ffaded04": 335, //Claw Island
-  "14218ec9": 873, //Southsun Cove
-  "c31bc060": 929, //The Crown Pavilion
-  "2541c953": 943, //Tower of Nightmares
-  "8ef5ca69": 1155, //Lion's Arch Aerodrome
-  "b8177384": 1185, //Lake Doric
-  //Ascalon
-  "00356338": 19, //Plains of Ashford
-  "7763f9e1": 20, //Blazeridge Steppes
-  "9a398788": 21, //Fields of Ruin
-  "cac209eb": 22, //Fireheart Rise
-  "72a34b8c": 25, //Iron Marches
-  "0b227bed": 32, //Diessa Plateau
-  "8f5fb2d6": 218, //Black Citadel
-  "7e1d5397": 1330, //Grothmar Valley
-  //Shiverpeak Mountains
-  "05ec8636": 26, //Dredgehaunt Cliffs
-  "8c00d22c": 27, //Lornar's Pass
-  "28767211": 28, //Wayfarer Foothills
-  "2f99c932": 29, //Timberline Falls
-  "1b363e01": 30, //Frostgorge Sound
-  "2bca1db9": 31, //Snowden Drifts
-  "d2385284": 326, //Hoelbrak
-  "d06dc7cd": 1178, //Bitterfrost Frontier
-  "83603e29": 1310, //Thunderhead Peaks
-  "b0e69881": 1343, //Bjora Marches
-  "bd0631ee": 1362, //Forging Steel (Public)
-  "14b87d9c": 1370, //Eye of the North
-  "f7f73846": 1371, //Drizzlewood Coast
-  //Tarnished Coast
-  "131ff2ff": 34, //Caledon Forest
-  "c53717ad": 35, //Metrica Province
-  "d6d163ad": 39, //Mount Maelstrom
-  "f788b77d": 53, //Sparkfly Fen
-  "4a99f14f": 54, //Brisban Wildlands
-  "23857fe2": 91, //The Grove
-  "e33beb88": 139, //Rata Sum
-  "ec8905c0": 922, //Labyrinthine Cliffs
-  //Ruins of Orr
-  "5e218b2d": 51, //Straits of Devastation
-  "55e8311b": 62, //Cursed Shore
-  "daa83c1f": 65, //Malchor's Leap
-  "203e83fb": 1203, //Siren's Landing
-  //Maguuma Wastes
-  "709590bb": 988, //Dry Top
-  "af54e1e6": 1015, //The Silverwastes
-  //Heart of Maguuma
-  "f45c5d6e": 1041, //Dragon's Stand
-  "9b410ce3": 1052, //Verdant Brink
-  "2a591492": 1043, //Auric Basin
-  "845e8fa0": 1045, //Tangled Depths
-  "d297524a": 1052, //Verdant Brink (unknown, using 1042)
-  "70b26f53": 1165, //Bloodstone Fen
-  "a14580b4": 1175, //Ember Bay
-  //Ring of Fire
-  "911f8bb6": 1195, //Draconis Mons
-  //Crystal Desert
-  "a2427679": 1210, //Crystal Oasis
-  "097027d1": 1211, //Desert Highlands
-  "cbf98940": 1226, //The Desolation
-  "8f8983c9": 1228, //Elon Riverlands
-  "5c048c4e": 1248, //Domain of Vabbi
-  "2acf78b6": 1263, //Domain of Istan
-  "0d7da6c4": 1271, //Sandswept Isles
-  "9a874789": 1288, //Domain of Kourna
-  "a22d6134": 1301, //Jahai Bluffs
-  "fd37c24d": 1317, //Dragonfall
-  //Cantha
-  "210b81b0": 1442, //Seitung Province
-  "a157063c": 1438, //New Kaineng City
-  "2274c5a2": 1452, //The Echovald Wilds
-  "2f0f0102": 1422, //Dragon's End
-  //Guild Halls
-  "f160587f": 1124, //Lost Precipice
-  "af783e31": 1121, //Gilded Hollow
-  "75542fcf": 1232, //Windswept Haven
-  "93a0f21e": 1462, //Isle of Reflection
-  //Mad King's Realm
-  "03661893": 866, //Mad King's Labyrinth
-  "4eefd7a4": 866, //Mad King's Raceway (really 1304 but same loading screen as 866)
-  "19fba78d": 1316, //Mists Rift
-  "098f0d61": 863, //Ascent to Madness
-  //Super Adventure Box
-  "fd0c8873": 935, //Super Adventure Box Lobby
-  "4d503b85": 935, //Super Adventure Box World 1 (Map: 895)
-  "356b3942": 935, //Super Adventure Box World 2 (Map: 934)
-  //Fractals of the Mists
-  "71bf90c9": 872, //Mistlock Sanctuary (really 1206 but same loading screen as 872)
-  //Player vs. Player
-  "b05aecba": 350, //Heart of the Mists
-  //Dungeons
-  "f68527ee": 33, //Ascalonian Catacombs
-  "f5f1b77b": 75, //Caudecus's Manor
-  "c5c6ac60": 67, //Twilight Arbor
-  "6bee8e93": 63, //Sorrow's Embrace
-  "564e11b7": 66, //Citadel of Flame
-  "2c7e2e1c": 70, //Honor of the Waves
-  "77e406d6": 81, //Crucible of Eternity
-  "403955aa": 112, //The Ruined City of Arah
-  //Raids
-  "439acbb3": 1147, //Spirit Vale (public Spirit Vale?)
-  //Strikes
-  "5d5aed2a": 1352, //Secret Lair of the Snowmen (Public)
-  "136d4773": 1376 //Strike Mission: Cold War (Public)
+    // The hash is the first 8 characters of the SHA1 hash of the following string
+    // SHA1(<continent_id><continent_rect[0][0]><continent_rect[0][1]><continent_rect[1][0]><continent_rect[1][1]>)
+    // Kryta
+    "80b1db64": 15, //Queensdale
+    "0a01a098": 17, //Harathi Hinterlands
+    "b1af49c0": 18, //Divinity's Reach
+    "ea0f649a": 23, //Kessex Hills
+    "2e7f6558": 24, //Gendarran Fields
+    "86e692fd": 50, //Lion's Arch
+    "827077bd": 73, //Bloodtide Coast
+    "ffaded04": 335, //Claw Island
+    "14218ec9": 873, //Southsun Cove
+    "c31bc060": 929, //The Crown Pavilion
+    "2541c953": 943, //Tower of Nightmares
+    "8ef5ca69": 1155, //Lion's Arch Aerodrome
+    "1897597e": 1155, // Special Forces Training Area (1154)
+    "b8177384": 1185, //Lake Doric
+    // Ascalon
+    "00356338": 19, //Plains of Ashford
+    "7763f9e1": 20, //Blazeridge Steppes
+    "9a398788": 21, //Fields of Ruin
+    "cac209eb": 22, //Fireheart Rise
+    "72a34b8c": 25, //Iron Marches
+    "0b227bed": 32, //Diessa Plateau
+    "8f5fb2d6": 218, //Black Citadel
+    "7e1d5397": 1330, //Grothmar Valley
+    // Shiverpeak Mountains
+    "05ec8636": 26, //Dredgehaunt Cliffs
+    "8c00d22c": 27, //Lornar's Pass
+    "28767211": 28, //Wayfarer Foothills
+    "2f99c932": 29, //Timberline Falls
+    "1b363e01": 30, //Frostgorge Sound
+    "2bca1db9": 31, //Snowden Drifts
+    "d2385284": 326, //Hoelbrak
+    "d06dc7cd": 1178, //Bitterfrost Frontier
+    "83603e29": 1310, //Thunderhead Peaks
+    "b0e69881": 1343, //Bjora Marches
+    "bd0631ee": 1362, //Forging Steel (Public)
+    "14b87d9c": 1370, //Eye of the North
+    "f7f73846": 1371, //Drizzlewood Coast
+    // Tarnished Coast
+    "131ff2ff": 34, //Caledon Forest
+    "c53717ad": 35, //Metrica Province
+    "d6d163ad": 39, //Mount Maelstrom
+    "f788b77d": 53, //Sparkfly Fen
+    "4a99f14f": 54, //Brisban Wildlands
+    "23857fe2": 91, //The Grove
+    "e33beb88": 139, //Rata Sum
+    "ec8905c0": 922, //Labyrinthine Cliffs
+    // Ruins of Orr
+    "5e218b2d": 51, //Straits of Devastation
+    "55e8311b": 62, //Cursed Shore
+    "daa83c1f": 65, //Malchor's Leap
+    "203e83fb": 1203, //Siren's Landing
+    // Maguuma Wastes
+    "709590bb": 988, //Dry Top
+    "af54e1e6": 1015, //The Silverwastes
+    //Heart of Maguuma
+    "f45c5d6e": 1041, //Dragon's Stand
+    "9b410ce3": 1052, //Verdant Brink
+    "2a591492": 1043, //Auric Basin
+    "845e8fa0": 1045, //Tangled Depths
+    "d297524a": 1052, //Verdant Brink (unknown, using 1042)
+    "70b26f53": 1165, //Bloodstone Fen
+    "a14580b4": 1175, //Ember Bay
+    // Ring of Fire
+    "911f8bb6": 1195, //Draconis Mons
+    // Crystal Desert
+    "a2427679": 1210, //Crystal Oasis
+    "097027d1": 1211, //Desert Highlands
+    "cbf98940": 1226, //The Desolation
+    "8f8983c9": 1228, //Elon Riverlands
+    "5c048c4e": 1248, //Domain of Vabbi
+    "2acf78b6": 1263, //Domain of Istan
+    "0d7da6c4": 1271, //Sandswept Isles
+    "9a874789": 1288, //Domain of Kourna
+    "a22d6134": 1301, //Jahai Bluffs
+    "fd37c24d": 1317, //Dragonfall
+    // Cantha
+    "210b81b0": 1442, //Seitung Province
+    "a157063c": 1438, //New Kaineng City
+    "75a9fbe8": 1416, // Deepest Secrets: Yong Reactor (1416)
+    "2274c5a2": 1452, //The Echovald Wilds
+    "3d3d012e": 1465, // Thousand Seas Pavilion (1465)
+    "2f0f0102": 1422, //Dragon's End
+    // Guild Halls
+    "f160587f": 1124, //Lost Precipice
+    "ae223eb9": 1124, // Claiming the Lost Precipice (1064)
+    "af783e31": 1121, //Gilded Hollow
+    "53281bfd": 1121, // Claiming the Gilded Hollow (1066)
+    "75542fcf": 1232, //Windswept Haven
+    "f4d754ba": 1232, // Windswept Haven (1214)
+    "93a0f21e": 1462, //Isle of Reflection
+    // Mad King's Realm
+    "03661893": 866, //Mad King's Labyrinth
+    "4eefd7a4": 866, //Mad King's Raceway (1304)
+    "19fba78d": 1316, //Mists Rift
+    "098f0d61": 863, //Ascent to Madness
+    "af3b60d5": 865, // Mad King's Clock Tower (865)
+    // Super Adventure Box
+    "fd0c8873": 935, //Super Adventure Box Lobby
+    "4d503b85": 935, //Super Adventure Box World 1 (895)
+    "356b3942": 935, //Super Adventure Box World 2 (934)
+    "bc3223b7": 935, //Super Adventure Box (935)
+    "37b6fc65": 935, //Super Adventure Box (895)
+    "7da77a67": 935, //Super Adventure Box (895)
+    "fcacace6": 935, //Super Adventure Box (895)
+    "32216f2e": 935, //Super Adventure Box (895)
+    "ff6ad660": 935, // Super Adventure Box (934)
+    "bb352d40": 935, // Super Adventure Box (934)
+    "8ba6052e": 935, // Super Adventure Box (934)
+    // Fractals of the Mists
+    "71bf90c9": 872, //Mistlock Sanctuary (1206)
+    "7683d17b": 872, // Mistlock Sanctuary (1206)
+    "aa087b6b": 872, // Fractals of the Mists (872)
+    "29a1370f": 872, // Fractals of the Mists (1309)
+    "62b5a462": 872, // Fractals of the Mists (1267)
+    "557bece0": 872, // Fractals of the Mists (950)
+    "d5324db6": 872, // Fractals of the Mists (1205)
+    "d9724cd6": 872, // Fractals of the Mists (1177)
+    "c91b588f": 872, // Fractals of the Mists (948)
+    "4a17a758": 872, // Fractals of the Mists (1164)
+    "d3d5f1c2": 872, // Fractals of the Mists (951)
+    "8d24c334": 872, // Fractals of the Mists (956)
+    "0d5f85ef": 872, // Fractals of the Mists (1290)
+    "1bb3990f": 872, // Fractals of the Mists (1384)
+    // The Mists (Misc)
+    "b540c3ff": 1230, // Facing the Truth: The Sanctum (1230)
+    "00631999": 1230, // Dragonflight (1321)
+    // Player vs. Player
+    "b05aecba": 350, //Heart of the Mists
+    "58f2a197": 549, //Battle of Khylo
+    "dac0c457": 554, //Forest of Niflhel
+    "3c342484": 795, //Legacy of the Foefire
+    "c84e4c59": 875, //Temple of the Silent Storm
+    "6de162af": 894, //Spirit Watch
+    "a7e02b72": 900, //Skyhammer,
+    "2f7bdd86": 984, //Courtyard
+    "dadb4e86": 1011, //Battle of Champion's Dusk
+    "300298ad": 1163, //Revenge of the Capricorn
+    "8a99d362": 1171, //Eternal Coliseum
+    "c9d8d975": 1200, //Hall of the Mists
+    "50bd484c": 1201, //Asura Arena
+    "167d7a0d": 1305, //Djinn's Dominion
+    "62739360": 1328, //Auric Span
+    // World vs. World
+    "5a6f612c": 38, //Eternal Battlegrounds
+    "408a9f3a": 38, //Alpine Borderlands (95)
+    "61d7108f": 38, //Alpine Borderlands (96)
+    "991d5e90": 38, //Desert Borderlands (1099)
+    "0d9c5f4c": 38, //Armistice Bastion (1315)
+    "b34cc651": 968, //Edge of the Mists
+    // Dungeons
+    "f68527ee": 33, //Ascalonian Catacombs
+    "f5f1b77b": 75, //Caudecus's Manor
+    "c5c6ac60": 67, //Twilight Arbor
+    "6bee8e93": 63, //Sorrow's Embrace
+    "564e11b7": 66, //Citadel of Flame
+    "2c7e2e1c": 70, //Honor of the Waves
+    "77e406d6": 81, //Crucible of Eternity
+    "403955aa": 112, //The Ruined City of Arah
+    // Raids
+    "439acbb3": 1147, //Spirit Vale (public Spirit Vale?)
+    "39225eba": 1062, // Spirit Vale (1062)
+    "e27dfb14": 1149, // Salvation Pass (1149)
+    "bfda3381": 1156, // Stronghold of the Faithful (1156)
+    "61574747": 1188, // Bastion of the Penitent (1188)
+    "0ca3a2aa": 1323, // The Key of Ahdashim (1323)
+    "b1ddd6dd": 1264, // Hall of Chains (1264)
+    "708f1f7d": 1303, // Mythwright Gambit (1303)
+    // Strikes
+    "5d5aed2a": 1352, //Secret Lair of the Snowmen (Public)
+    "e1db2c8d": 1352, // Secret Lair of the Snowmen (Squad) (1306)
+    "136d4773": 1376, //Strike Mission: Cold War (Public)
+    "396af3d1": 1442, // Strike Mission: Aetherblade Hideout (1432)
+    "8587983d": 1409, // Dragonstorm (Private Squad) (1409)
+    "1dc07660": 1343, // Weekly Strike Mission: Fraenir of Jormag (Squad) (1341)
+    "34df6a7c": 1343, // Strike Mission: Whisper of Jormag (Public) (1357)
+    "94980a3b": 1371, // Strike Mission: Cold War (Squad) (1374)
+    "2dd17207": 1370, // Forging Steel (Public) (1362)
+    // Miscellaneous
+    "73a1085e": 91, // A Vision of Darkness (536)
+    "c77a9def": 1263, // Fahranur, the First City (1268)
+    "1ba5c28c": 27, // Old Friends (1433)
+    "480a513f": 73, // Chantry of Secrets (336)
+    "dbab3c74": 51, // Temple of the Forgotten God (776)
+    "d75552f6": 28, // Cragstead (897)
+    "ac9997df": 27, // Hidden Arcana (1016)
+    "6342bf69": 62, // Victory or Death (111)
+    "aaf56fe5": 877, // Snowball Mayhem (877)
+    "06f68cce": 878, // Tixx's Infinirarium (878)
+    "0fb41501": 911, // Dragon Ball Arena (911)
+    "23da3a10": 915, // Aetherblade Retreat (915)
+    "e3f44eef": 1228, // The Departing (1245)
+    "b300baed": 1210, // Eye of the Brandstorm (1260)
+    "52e1ea66": 1211, // Tracking the Scientist (1282)
+    "3785b331": 1210, // Seized (1289)
+    "574ab551": 1301, // Storm Tracking (1296)
+    "79efb6e9": 1317, // Epilogue (1322)
+    "37c26213": 1041, // Hearts and Minds (1040)
+    "4404b1df": 1045, // Taimi's Game (1173)
+    "a5dd1116": 1228, // The Way Forward (1221)
+    "af32cbad": 18, // Shining Blade Headquarters (1208)
+    "659685b4": 54, // White Mantle Hideout (1202)
+    "c5142796": 1230, // ERROR: SIGNAL LOST (1279)
+    "6758c38b": 1310, // The Crystal Dragon (1313)
+    "b4d03dd0": 27, // Scion & Champion (1308)
+    "ce7d4d73": 1317, // Descent (1319)
+    "4bb84852": 1343, // Darkrime Delves (1366)
+    "5868b252": 1343, // Voice in the Deep (1355)
+    "540343a6": 32, // Molten Furnace (901)
+    "230327e9": 1230, // Aetherblade Armada (1446)
+    // Festival of the Four Winds
+    "41a2991a": 922, // Sanctum Sprint (919)
+    "75eb5b14": 922, // Aspect Arena (918)
 }
